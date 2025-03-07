@@ -33,7 +33,7 @@ TunnelsMux 64 luồng đập chết 100 luồng termux
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/GgKQ7EOcZ6M/0.jpg)](https://www.youtube.com/watch?v=GgKQ7EOcZ6M "Everything Is AWESOME")
 
-# Tên app trên tất cả các nền tảng iOS Android Windows macOS Linux Termux/Android:  [TunnelsMux](https://www.google.com/search?q=tunnelsmux) 
+# Tên app trên tất cả các nền tảng iOS Android Windows macOS Linux Termux/Android:  [PsiMux](https://www.google.com/search?q=tunnelsmux) 
 ![image](https://github.com/user-attachments/assets/f595307e-8bd0-462e-bf34-8fc21a707e7c)
 
 App iOS iPhone chính chủ độc quyền TQ VVIP phát triền bởi 10% tinh hoa, dành cho 10% tinh hoa, có 1-0-2, chuyên nghiệp, độc đáo!!!
